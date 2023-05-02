@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1 style="color:red; font-size:50 px">Lorem, ipsum.</h1>
-    <p>Lorem, ipsum dolor.</p>
+    <p style="color:yellow">Lorem, ipsum dolor.</p>
     <p>Quo, consectetur quisquam!</p>
     <p>Porro, iusto ipsam?</p>
 </body>
